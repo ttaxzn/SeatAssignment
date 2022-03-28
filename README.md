@@ -5,7 +5,7 @@
 
 
 
-**DECLARATIONS AND INITIALIZING VECTORS**
+__DECLARATIONS AND INITIALIZING VECTORS__
 
 In the beginning of my code, I used vectors to be able to have the rows mapped out. Within the for loop, I added values 1-20 to each vector to account for the amount of seats in each row.
 <img width="779" alt="Screen Shot 2022-03-28 at 2 38 34 AM" src="https://user-images.githubusercontent.com/71516184/160349401-8facaaf5-754b-4007-813a-c74512b8acec.png">
