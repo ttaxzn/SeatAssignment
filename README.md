@@ -1,7 +1,7 @@
 # SeatAssignment
-##**Hello! Glad you made it!**
+## **Hello! Glad you made it!**
 
-##**I am providing a walkthrough of my code below.**
+## **I am providing a walkthrough of my code below.**
 
 
 
